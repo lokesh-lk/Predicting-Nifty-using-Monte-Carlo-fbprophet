@@ -1,0 +1,2 @@
+# Predicting-Nifty-using-Monte-Carlo-fbprophet
+Problem Statement • The objective is to predict Nifty value (National stock exchange FIFTY) over the next  year using Monte Carlo simulation and state of the art Forecasting algorithm  (Facebook fbprophet). • Let’s use Monte Carlo simulation to predict Nifty range values over the next year. • We use Facebook fbprophet library to predict Nifty levels and see how it compares to the standard Monte Carlo simulation using the same Nifty data.
